@@ -2,7 +2,7 @@
 - 🌚 I’m interested in humans, technology, networks and sound.
 - ⛓ I’m currently learning about blockchain technologies.
 - 💞 I’m looking to collaborate on creative projects related to sound and/or blockchain.
-- 🛸 Jump into this time machien to reach me --> www.noam-rubin.com 
+- 🛸 Jump into this time machine to reach me --> www.noam-rubin.com 
 
 <!---
 noamrubin22/noamrubin22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
