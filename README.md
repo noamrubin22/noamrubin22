@@ -1,4 +1,4 @@
-- 🫧 Hi, my name is Noam, I am a full stack developer with a background in neuroscience.
+- 🫧 Hi, my name is Noam, I am a full stack developer with a BA in neuroscience.
 - 🌚 I’m interested in humans, technology, networks and sound.
 - ⛓ I’m currently learning about blockchain technologies.
 - 💞 I’m looking to collaborate on creative projects related to sound and/or blockchain.
