@@ -1,7 +1,7 @@
-- 🫧 Hi, my name is Noam, I am a full stack developer with a BA in neuroscience.
+- 🧚‍♀️ Hi, my name is Noam, I am a full stack developer with a BA in neuroscience.
 - ⛓ I’m currently learning about blockchain technologies.
-- 🌚 I’m interested in humans, technology, networks and sound.
-- 💞 I’m looking to collaborate on creative projects related to sound and/or blockchain.
+- 🦋 I’m interested in humans, technology, networks and sound.
+- 💞 I would like to collaborate on creative projects related to sound and/or blockchain.
 - 🛸 Jump into this time machine to reach me --> www.noam-rubin.com 
 
 <!---
