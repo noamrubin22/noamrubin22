@@ -1,8 +1,7 @@
-- 🧚‍♀️ Hi, my name is Noam, I am a full stack developer with a BA in neuroscience.
-- ⛓ I’m currently learning about blockchain technologies.
-- 🦋 I’m interested in humans, technology, networks and sound.
-- 💞 I would like to collaborate on creative projects related to sound and/or blockchain.
-- 🛸 Jump into this time machine to reach me --> www.noam-rubin.com 
+hey I am Nusha, a full stack dev that recently started learning more about blockchain. 
+I am interested in humans, technology, networks and have a obsession for sound. 
+If you want to collaborate on creative projects, please reach out: www.noam-rubin.com 
+
 
 <!---
 noamrubin22/noamrubin22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
