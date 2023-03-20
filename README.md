@@ -1,6 +1,7 @@
 hey I am Nusha, a full stack dev that recently started learning more about blockchain. 
-I am interested in humans, technology, networks and have a obsession for sound. 
-If you want to collaborate on creative projects, please reach out: www.noam-rubin.com 
+I am interested in humans, technology, networks and have an obsession for sound. 
+If you want to collaborate on creative projects, please reach out.
+www.noam-rubin.com 
 
 
 <!---
